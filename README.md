@@ -9,4 +9,3 @@
 - Monash Lesson Plans - SQL
 - Stack Overflow (https://stackoverflow.com/questions/70778320/extract-year-month-from-a-date-column-along-with-other-columns-in-a-sql-table)
 - Ask BCs (for clarification)
-
